@@ -1,2 +1,2 @@
 # my_ai_project
-CNN model for personality predictions on introvert and extrovert behaviour dataset
+This project is a CNN model for personality predictions. 
